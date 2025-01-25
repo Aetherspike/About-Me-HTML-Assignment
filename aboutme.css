@@ -1,0 +1,21 @@
+h1 {
+    font-size: 4em;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 20px;
+}
+h1 span {
+    font-size: 0.5em;
+    font-family: fantasy;
+    text-align: center;
+
+    
+}
+h2 {
+    font-size: 2em;
+    font-family: fantasy;
+    margin-top: 20px;
+    background: linear-gradient(#e57607, #0c7f34);
+    -webkit-background-clip: text;
+    color: transparent;
+}
