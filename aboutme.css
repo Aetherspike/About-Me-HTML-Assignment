@@ -13,7 +13,7 @@ h2 {
     font-size: 2em;
     font-family: fantasy;
     margin-top: 20px;
-    background: linear-gradient(#e57607, #0c7f34);
+    background: linear-gradient(#EEEEEE, #999999);
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -21,4 +21,7 @@ h2 {
 li {
     font-family: cursive;
     /* CSS Cursive on Edge, Firefox and Chrome results in Comic Sans. Who knew? */
+}
+body {
+    background: linear-gradient(#0077DD, #dd7703);
 }
